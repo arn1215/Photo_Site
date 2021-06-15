@@ -16,14 +16,14 @@ body {
 .Logo {
     font-size: 2em;
     letter-spacing: .2em;
-    margin-left: 200px;
+    margin-left: 50px;
 }
 
 .Occupation {
     font-size: em;
     letter-spacing: .4em;
     text-transform: uppercase;
-    margin-left: 200px;
+    margin-left: 50px;
     
 }
 
@@ -38,7 +38,7 @@ body {
  
 .nav-list {
     list-style-type: none;
-    margin-right: 300px;
+    margin-right: 50px;
     
     
 }
